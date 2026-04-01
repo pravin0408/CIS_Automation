@@ -1,0 +1,6 @@
+hostname,ip_address,os_name
+SERVER-WIN01,10.0.0.1,Windows Server 2019
+SERVER-WIN02,10.0.0.2,Windows 2016 MS
+SERVER-LNX01,10.0.0.3,Ubuntu 22
+SERVER-LNX02,10.0.0.4,RHEL 8
+SERVER-LNX03,10.0.0.5,Debian 11
